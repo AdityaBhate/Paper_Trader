@@ -1,3 +1,3 @@
-<h6>Paper Trader</h6>
+<h1>Paper Trader</h1>
 
 short desc
